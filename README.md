@@ -1,5 +1,6 @@
 # react-pixabay
 Image search engine using Pixabay API
+---
 
 This project demo can be found at:
 https://loving-colden-d293ae.netlify.com
